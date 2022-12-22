@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "j6nvS+x3yri8jfQ8Xd0MmUKzFaeCN87LlvLj13BaD3PUsUzvwRKDZkTwx4RPhcMWtClxQy/Nmt7Y7k+2RRDKhg==",
+  "success": true,
+  "projectFilePath": "/home/sudip/Desktop/dotnet/dotnet/dotnet.csproj",
+  "expectedPackageFiles": [
+    "/home/sudip/.nuget/packages/mysqlconnector/2.2.3/mysqlconnector.2.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
