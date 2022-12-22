@@ -1,13 +1,14 @@
-@model dotnet.Models.DogViewModel
+@model List<dotnet.Models.DogViewModel>
 
 
 @{
-    ViewData["Title"] = "About Page";
+    ViewData["Title"] = "Create  Page";
 }
 
 
+    @foreach (var dog in Model)
+{
+     <li>@dog.Name (@dog.Age)</li>
+     
+}
 
-
-<h1>Hello World</h1>
-<h4>@Model.Name</h4>
-<h4>@Model.Age</h4>
